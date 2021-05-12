@@ -95,3 +95,4 @@ done
 # 5. FINISH
 
 echo "[$0] Done."
+#End of our script
